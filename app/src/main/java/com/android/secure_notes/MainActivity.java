@@ -1,4 +1,4 @@
-package com.example.secure_notes;
+package com.android.secure_notes;
 
 import androidx.appcompat.app.AppCompatActivity;
 

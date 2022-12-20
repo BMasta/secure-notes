@@ -1,4 +1,4 @@
-package com.example.secure_notes;
+package com.android.secure_notes;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.secure_notes", appContext.getPackageName());
+        assertEquals("com.android.secure_notes", appContext.getPackageName());
     }
 }

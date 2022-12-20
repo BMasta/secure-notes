@@ -1,4 +1,4 @@
-package com.example.secure_notes;
+package com.android.secure_notes;
 
 import org.junit.Test;
 

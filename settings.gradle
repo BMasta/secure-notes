@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "secure-notes"
+rootProject.name = "secure_notes"
 include ':app'
