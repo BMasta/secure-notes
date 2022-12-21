@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">secure_notes</string>
+    <string name="containers_add_desc">Add</string>
 </resources>
